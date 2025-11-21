@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Samarth 👋</h1>
 <h3 align="center">A student at UC Irvine working towards a degree in Data Science</h3>
 
-- 📫 How to reach me **hegdesamz@gmail.com**
+- 📫 How to reach me **hegdesamz at gmail dot com**
 
-- 📄 Know about my experiences: (https://github.com/user-attachments/files/23670505/Corporate.Resume.Samarth.Hegde.3.pdf)
+- 📄 Know about my experiences: [Samarth Hegde Resume](https://github.com/user-attachments/files/23670505/Corporate.Resume.Samarth.Hegde.3.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
